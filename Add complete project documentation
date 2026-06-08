@@ -1,0 +1,7 @@
+# AI-MultiTool-SaaS
+
+A full-stack AI-powered SaaS application that enables users to generate articles, create AI images, remove image backgrounds, review resumes, and access premium features through a subscription-based model.
+
+## Overview
+
+AI-MultiTool-SaaS is a modern SaaS platform built using React, Node.js, PostgreSQL, and AI APIs. The application provides multiple AI-powered tools through a secure and scalable architecture.
